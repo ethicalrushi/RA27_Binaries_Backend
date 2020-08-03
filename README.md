@@ -1,4 +1,4 @@
-# Team CATVIDEOS aka [ Team binaries ] go! - Codeutsava 4.0 [ NITRR ]
+# Team Binaries go! - SIH 2020 [ NITRR ]
 
 ## The problem Kisan Mitra solves
 1. Connects farmers directly to the buyers.
@@ -11,7 +11,7 @@
 1. The entire product is seamlessly integrated with the SMS service.
 
 
-## Team CATVIDEOS:
+## Team BINARIES:
 
 1. Rushikesh Pupale
 1. Naveen Sundar
