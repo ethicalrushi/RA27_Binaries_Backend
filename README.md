@@ -1,4 +1,4 @@
-# Team Binaries go! - SIH 2020 [ NITRR ]
+# Team Binaries go! - SIH 2020 Winner [ NITRR ]
 
 ## The problem Kisan Mitra solves
 1. Connects farmers directly to the buyers.
